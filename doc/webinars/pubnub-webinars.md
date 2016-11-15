@@ -1,7 +1,5 @@
 # PubNub Webinars
 
-* November 2016
-
 1. October 2016
   1. Introduction to PubNub BLOCKS - 10/13
   1. JavaScript Training: How to Build a JavaScript Chat App - 90 Minutes - 10/18
