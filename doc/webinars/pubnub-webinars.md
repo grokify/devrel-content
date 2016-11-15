@@ -2,6 +2,12 @@
 
 * November 2016
 
+1. Introduction to PubNub BLOCKS - 11/8
+1. React Dev Training: Building a Realtime App with React and PubNub - 11/11
+1. AngularJS Dev Training: How to Build a Fully Featured Chat App - 11/16
+1. JavaScript Training: How to Build a Chat App - 11/22
+1. iOS Dev Training: How to Build a Fully Featured Chat App - 11/30
+
 ## Introduction to PubNub BLOCKS
 
 * Tuesday, November 8th, 2016
