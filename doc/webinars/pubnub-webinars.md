@@ -5,6 +5,12 @@
   1. Building a Full Featured Chat App with PubNub's JavaScript SDK - 1/14
   1. Building a Full Featured Chat App with PubNub’s Java/Android SDK - 1/19
   1. Live Q&A with PubNub Experts - 1/26
+1. February 2016
+  1. Building a Full Featured Chat App with PubNub's Java/Android SDK - 2/3
+1. April 2016
+  1. Build a Full Featured Chat App with PubNub's Java/Android SDK - 4/13
+  1. D3.js Graphing & Mapping Developer Training - 4/15
+  1. Build a Realtime IoT Traffic Signal Control System with PubNub & IBM Bluemix - 4/19
 1. May 2016
   1. Learn to Build a JavaScript Chat App in 90 Mins - 5/6
   1. AngularJS: Build a Full Featured Chat App (new) - 5/11
@@ -73,6 +79,36 @@ This webinar will introduce participants to the PubNub Java/Android SDK and walk
 * 9 AM PT / 12 PM ET / 5 PM UTC  
  
 We gathered our PubNub product experts in one place to answer any PubNub questions you have in realtime. You won't want to miss hearing our experts explain how your organization can get the most out of PubNub.  
+
+## Building a Full Featured Chat App with PubNub's Java/Android SDK
+
+* Wednesday, February 3rd // 120 Minutes   
+* 9 AM PT / 12 PM ET / 5 PM UTC  
+ 
+This webinar will introduce participants to the PubNub Java/Android SDK and walk through the code for building a full-featured Android chat application that uses PubNub's Publish/Subscribe, Stream Controller, Presence, Storage & Playback and Mobile Push Notification features.
+
+## Build a Full Featured Chat App with PubNub's Java/Android SDK
+
+* Wednesday, April 13th // 120 Minutes   
+* 9:30am PT / 12:30pm ET / 5:30pm CET  
+ 
+This training will teach you how to build a full-featured Android chat application with PubNub's Global Data Stream Network. At the end of the tutorial, you'll be able to send and receive realtime chat messages, view live online/offline status of users, and store and retrieve messages.
+
+## D3.js Graphing & Mapping Developer Training
+
+* Friday, April 15th // 120 Minutes  
+* 9:30am PT / 12:30pm ET / 5:30pm CET  
+ 
+Charts are great for static data, but what do you do when you have a constant stream of realtime data to continuously render?  
+ 
+EON is an open source JavaScript framework for visualizing realtime data. Built on top of D3 and C3, EON lets your create web-based dashboards full of charts, graphs, and maps that render data in realtime as it comes from public and private data sources.
+
+## Build a Realtime IoT Traffic Signal Control System with PubNub & IBM Bluemix
+ 
+* Tuesday, April 19th // 60 Minutes  
+* 8:30am PT / 11:30am ET / 9:00pm IST  
+ 
+In this developer training webinar, we will walk through a step by step tutorial on building a realtime, IoT traffic signal control system for emergency vehicles using PubNub’s Secure Data Stream Network and IBM Bluemix.
 
 ## Learn to Build a JavaScript Chat App in 90 Mins  
  
